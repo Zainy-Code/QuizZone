@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 -2.5 300 300" xmlns="http://www.w3.org/2000/svg">
+
+<linearGradient id="a" gradientUnits="userSpaceOnUse" x1="-973.025" y1="1430.582" x2="-858.025" y2="1187.581" gradientTransform="matrix(1 0 0 -1 1045.93 1415.176)">
+
+<stop offset="0" stop-color="#a0cbff"/>
+
+<stop offset=".394" stop-color="#a0cbfe"/>
+
+<stop offset=".583" stop-color="#8ec2fc"/>
+
+<stop offset=".784" stop-color="#83bcfb"/>
+
+<stop offset="1" stop-color="#7fbafb"/>
+
+</linearGradient>
+
+<path fill="url(#a)" d="M0 0h300v295H0z"/>
+
+<linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-932.205" y1="1388.221" x2="-867.205" y2="1172.219" gradientTransform="matrix(1 0 0 -1 1045.93 1415.176)">
+
+<stop offset="0" stop-color="#090058"/>
+
+<stop offset="1" stop-color="#070033"/>
+
+</linearGradient>
+
+<path fill="url(#b)" d="M23.859 23.459h252.284v248.082H23.859z"/>
+
+<g>
+
+<linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-1008.793" y1="1417.652" x2="-893.794" y2="1174.654" gradientTransform="matrix(1 0 0 -1 1045.93 1415.176)">
+
+<stop offset="0" stop-color="#a0cbff"/>
+
+<stop offset=".394" stop-color="#a0cbfe"/>
+
+<stop offset=".583" stop-color="#8ec2fc"/>
+
+<stop offset=".784" stop-color="#83bcfb"/>
+
+<stop offset="1" stop-color="#7fbafb"/>
+
+</linearGradient>
+
+
+<linearGradient id="d" gradientUnits="userSpaceOnUse" x1="-943.289" y1="1449.381" x2="-827.834" y2="1205.42" gradientTransform="matrix(1 0 0 -1 1045.93 1415.176)">
+
+<stop offset="0" stop-color="#a0cbff"/>
+
+<stop offset=".394" stop-color="#a0cbfe"/>
+
+<stop offset=".583" stop-color="#8ec2fc"/>
+
+<stop offset=".784" stop-color="#83bcfb"/>
+
+<stop offset="1" stop-color="#7fbafb"/>
+
+</linearGradient>
+
+
+</g>
+
+</svg>
